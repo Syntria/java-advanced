@@ -1,0 +1,4 @@
+10/2 = 5
+7/0 failed: ArithmeticException
+x/3 failed: NumberFormatException
+ok=1 failed=2

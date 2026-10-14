@@ -1,0 +1,1 @@
+INSERT INTO products (in_stock, price_cents, sku, title) VALUES (true, 250, 'W-1', 'Widget')

@@ -1,0 +1,1 @@
+INSERT INTO products (in_stock, price_cents, sku, title) VALUES (false, 5, 'B-77', 'Blue bolt')

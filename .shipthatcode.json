@@ -1,0 +1,38 @@
+{
+  "course": "java-advanced",
+  "language": "java",
+  "language_id": 1062,
+  "entrypoint": "Main.java",
+  "version": 1,
+  "content_hash": "aa3a47b8438c694d",
+  "lessons": [
+    {
+      "slug": "memory-model",
+      "tests_hash": "92456b002af0"
+    },
+    {
+      "slug": "executors",
+      "tests_hash": "791bf4f48d30"
+    },
+    {
+      "slug": "reflection-annotations",
+      "tests_hash": "09a65fdf2a89"
+    },
+    {
+      "slug": "jvm-memory",
+      "tests_hash": "094da9b2a7a9"
+    },
+    {
+      "slug": "generics-in-depth",
+      "tests_hash": "811642d64ae3"
+    },
+    {
+      "slug": "streams",
+      "tests_hash": "b4ca238bd95c"
+    },
+    {
+      "slug": "functional-interfaces",
+      "tests_hash": "78f0ee4e114d"
+    }
+  ]
+}
